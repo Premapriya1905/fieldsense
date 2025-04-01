@@ -1,0 +1,26 @@
+[
+  {
+    "meetingTitle": "Test",
+    "meetingDate": "2025-03-27",
+    "meetingTime": "13:23",
+    "participants": "Testuser",
+    "location": "Chanakya Puri Tehsil, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110503, India",
+    "travelMode": "Car",
+    "expenses": "Transportation",
+    "meetingAgenda": "Testtingngng",
+    "latitude": 28.62317889581256,
+    "longitude": 77.24289894104004,
+    "id": "1"
+  },
+  {
+    "meetingTitle": "Test Meeting",
+    "meetingDate": "2023-04-01",
+    "meetingTime": "14:30",
+    "participants": "golu",
+    "location": "Chennai",
+    "travelMode": "Public Transit",
+    "expenses": "Transportation",
+    "meetingAgenda": "OSNGOKRON",
+    "id": "2"
+  }
+]
