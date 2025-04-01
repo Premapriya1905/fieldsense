@@ -66,7 +66,7 @@ FieldSense is a comprehensive web application designed to help sales teams manag
 
    The backend will start on http://localhost:5000
 
-> **Note:** A deployed version of the backend is available at https://fieldsense.onrender.com
+> **Note:** A deployed version of the backend is available at https://fieldsense-yk97.onrender.com
 
 ### Frontend Setup
 
