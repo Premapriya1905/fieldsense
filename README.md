@@ -3,7 +3,6 @@
 FieldSense is a comprehensive web application designed to help sales teams manage their leads and field meetings efficiently. The application provides an intuitive interface for tracking leads, scheduling meetings, and managing sales activities.
 
 Walk Through Video - " https://drive.google.com/file/d/1MdEscv-yTjmCUs7B4HCtmZtg70Xkw3MA/view?usp=sharing "
-                     " https://drive.google.com/file/d/1C9PakXX42kzIPcNOEZQvFzOiO6OX5OYI/view?usp=sharing "
 
 ## Features
 
