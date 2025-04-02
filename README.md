@@ -16,7 +16,7 @@ Walk Through Video - " https://drive.google.com/file/d/1MdEscv-yTjmCUs7B4HCtmZtg
 ## Tech Stack
 
 ### Frontend
-- **Framework**: React
+- **Library**: React
 - **Build Tool**: Vite
 - **Styling**: Styled Components
 - **Routing**: React Router
